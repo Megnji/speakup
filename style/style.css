@@ -1,0 +1,15 @@
+.page {
+	background-color:#f8f8f8
+}
+
+.page_title {
+	text-align:center;
+}
+
+.page_desc {
+	text-align:center;
+}
+
+.page_btn {
+	padding:15px 15px;
+}
